@@ -1,5 +1,5 @@
 {
-  "org": "Proof-Of-Humanity",
+  "org": "gonzaluiandres",
   "repo": "poh-admin-voting",
   "tokenAddress": "0x1c8EEd9cD4Fde67fc0f5171A9c684fBc7501170D",
   "votingMethod": "QUADRATIC",
